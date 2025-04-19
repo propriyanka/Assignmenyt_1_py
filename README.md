@@ -15,7 +15,6 @@ Python Assessment/
 │-- config.ini              # 📝 Configuration file for Q3
 │-- requirements.txt        # 📜 Dependencies
 │-- source/                 # 📂 Source directory for backups
-
 ## ⚙️ Prerequisites
 
 Ensure you have Python 3 installed and the necessary dependencies from `requirements.txt`.
