@@ -1,0 +1,28 @@
+# Virtual environment
+env/
+venv/
+.myenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and database files
+*.log
+*.sqlite3
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+.env
+credentials.json
+
+# Backup & temp files
+*.bak
+*.swp
+*.swo
