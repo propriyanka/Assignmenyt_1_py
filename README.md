@@ -56,9 +56,8 @@ python Q1_passwords.py
 #### 🗈 Screenshots
 
 <p align="center">
-<img src="https://i.imgur.com/KlnoZf8.png" alt="Q1 Password Validation" width="800">
-<img src="https://i.imgur.com/onXsPM6.png" alt="Q1 Password Validation" width="800">
-<img src="https://i.imgur.com/AK5y840.png" alt="Q1 Password Validation" width="800">
+<img src="/Assignment ss/Screenshot_1.png" alt="Q1 Password Validation" width="800">
+<img src="//Assignment ss/Screenshot_2.png" alt="Q1 Password Validation" width="800">
 </p>
 
 ### 💻 Q2: CPU Monitoring
@@ -79,7 +78,7 @@ python Q2_monitor_cpu_usage.py
 #### 🗼️ Screenshot
 
 <p align="center">
-<img src="https://i.imgur.com/oJ1idB7.png" alt="Q2 CPU Monitoring" width="800">
+<img src="//Assignment ss/Screenshot_3.png" alt="Q2 CPU Monitoring" width="800">
 </p>
 
 ### ⚙️ Q3: Configuration Management
@@ -100,9 +99,9 @@ python Q3_configuration.py
 #### 🗼️ Screenshot
 
 <p align="center">
-<img src="https://i.imgur.com/zle6o1q.png" alt="Q3 Configuration Management" width="800">
-<img src="https://i.imgur.com/3yuIP2S.png" alt="Q3 Configuration Management" width="800">
-<img src="https://i.imgur.com/JFISryY.png" alt="Q3 Configuration Management" width="800">
+<img src="//Assignment ss/Screenshot_4.png" alt="Q3 Configuration Management" width="800">
+<img src="//Assignment ss/Screenshot_5.png" alt="Q3 Configuration Management" width="800">
+<img src="//Assignment ss/Screenshot_6.png" alt="Q3 Configuration Management" width="800">
 </p>
 
 ### 📂 Q4: Backup Automation
@@ -124,10 +123,8 @@ python Q4_backup.py
 #### 🗼️ Screenshot
 
 <p align="center">
-<img src="https://i.imgur.com/YEhJPiJ.png" alt="Q4 Backup Automation" width="800">
-<img src="https://i.imgur.com/daqclzV.png" alt="Q4 Backup Automation" width="800">
-<img src="https://i.imgur.com/gDeFC4o.png" alt="Q4 Backup Automation" width="800">
-<img src="https://i.imgur.com/JQDFxsg.png" alt="Q4 Backup Automation" width="800">
+<img src="//Assignment ss/Screenshot_7.png" alt="Q4 Backup Automation" width="800">
+
 </p>
 
 ## 📜 License
