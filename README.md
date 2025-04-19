@@ -6,17 +6,15 @@ This project consists of multiple Python scripts designed to handle various task
 
 ## 📁 Folder Structure
 
-```
 Python Assessment/
-﹅-- Q1_passwords.py           # 🔐 Password validation script
-﹅-- Q2_monitor_cpu_usage.py   # 💻 CPU monitoring script
-﹅-- Q3_configuration.py       # ⚙️ Configuration management script
-﹅-- Q4_backup.py              # 📂 Backup automation script
-﹅-- custom_password_list.txt  # ⛔ Custom password blacklist
-﹅-- config.ini                # 📜 Configuration file for Q3
-﹅-- requirements.txt          # 📜 Dependencies
-﹅-- source/                   # 📂 Source directory for backups
-```
+│-- Q1_passwords.py         # 🔐 Password validation script
+│-- Q2_monitor_cpu_usage.py # 💻 CPU monitoring script
+│-- Q3_configuration.py     # ⚙️ Configuration management script
+│-- Q4_backup.py            # 📂 Backup automation script
+│-- custom_password_list.txt # 🚫 Custom password blacklist
+│-- config.ini              # 📝 Configuration file for Q3
+│-- requirements.txt        # 📜 Dependencies
+│-- source/                 # 📂 Source directory for backups
 
 ## ⚙️ Prerequisites
 
@@ -53,7 +51,7 @@ This script validates passwords based on security policies, checks against a cus
 python Q1_passwords.py
 ```
 
-#### 🗈️ Screenshots
+#### 🗘️ Screenshots
 
 <p align="center">
   <img src="Assignment_ss/Screenshot_1.png" alt="Q1 Password Validation" width="800">
@@ -129,4 +127,3 @@ python Q4_backup.py
 ## 📜 License
 
 This project is licensed under the MIT License.
-
