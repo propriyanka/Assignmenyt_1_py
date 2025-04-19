@@ -15,7 +15,8 @@ Python Assessment/
 ├── custom_password_list.txt  # ⛔ Custom password blacklist
 ├── config.ini                # 📜 Configuration file for Q3
 ├── requirements.txt          # 📜 Dependencies
-└── source/                   # 📂 Source directory for backups
+├── source/                   # 📂 Source directory for backups
+└── screenshots/              # 📷 Screenshot images
 ```
 
 ## ⚙️ Prerequisites
@@ -56,8 +57,8 @@ python Q1_passwords.py
 #### 🗘️ Screenshots
 
 <p align="center">
-  <img src="Assignment_ss/Screenshot_1.png" alt="Q1 Password Validation" width="800">
-  <img src="Assignment_ss/Screenshot_2.png" alt="Q1 Password Validation" width="800">
+  <img src="screenshots/Screenshot_1.png" alt="Q1 Password Validation" width="800">
+  <img src="screenshots/Screenshot_2.png" alt="Q1 Password Validation" width="800">
 </p>
 
 ### 💻 Q2: CPU Monitoring
@@ -78,7 +79,7 @@ python Q2_monitor_cpu_usage.py
 #### 🗼️ Screenshot
 
 <p align="center">
-  <img src="Assignment_ss/Screenshot_3.png" alt="Q2 CPU Monitoring" width="800">
+  <img src="screenshots/Screenshot_3.png" alt="Q2 CPU Monitoring" width="800">
 </p>
 
 ### ⚙️ Q3: Configuration Management
@@ -99,9 +100,9 @@ python Q3_configuration.py
 #### 🗼️ Screenshot
 
 <p align="center">
-  <img src="Assignment_ss/Screenshot_4.png" alt="Q3 Configuration Management" width="800">
-  <img src="Assignment_ss/Screenshot_5.png" alt="Q3 Configuration Management" width="800">
-  <img src="Assignment_ss/Screenshot_6.png" alt="Q3 Configuration Management" width="800">
+  <img src="screenshots/Screenshot_4.png" alt="Q3 Configuration Management" width="800">
+  <img src="screenshots/Screenshot_5.png" alt="Q3 Configuration Management" width="800">
+  <img src="screenshots/Screenshot_6.png" alt="Q3 Configuration Management" width="800">
 </p>
 
 ### 📂 Q4: Backup Automation
@@ -123,7 +124,7 @@ python Q4_backup.py
 #### 🗼️ Screenshot
 
 <p align="center">
-  <img src="Assignment_ss/Screenshot_7.png" alt="Q4 Backup Automation" width="800">
+  <img src="screenshots/Screenshot_7.png" alt="Q4 Backup Automation" width="800">
 </p>
 
 ## 📜 License
